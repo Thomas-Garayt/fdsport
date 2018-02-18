@@ -1,0 +1,51 @@
+.card-body {
+    padding:0.5rem !important;
+}
+
+.card-img-top  {
+    width: 150px !important;
+    height: auto !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    min-height: 300px !important;
+}
+
+.card-home img {
+        width:auto !important;
+        height: auto !important;
+        margin-left: 0;
+        margin-right: 0;
+
+}
+
+.card-avis {
+    min-height: auto !important;    
+}
+
+.card-shop {
+    min-height: 200px !important;
+}
+
+a {
+    color:black !important;
+}
+
+a.nav-link {
+    color:white !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.bg-info {
+    background-color:white !important;
+    border-bottom: 1px black;
+}
+
+.footer-card {
+    margin-bottom:0rem !important;
+}
